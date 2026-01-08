@@ -8,4 +8,4 @@ class Solution(object):
         n = len(string)
         
         return len(string[n-1])
-        
+            
